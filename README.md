@@ -1,4 +1,4 @@
-# CYBER-PHYLAX🛡️
+
 # 🛡️ Cyber Phylax
 
 **Train Before You Become a Target.**
