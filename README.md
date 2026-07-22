@@ -5,7 +5,7 @@
 
 Cyber Phylax is an interactive cybersecurity awareness platform that teaches users how to identify and respond to common cyber threats through realistic simulations instead of passive reading.
 
-🌐Working on live website hosting . issues coming for hosating 
+🌐Working on live website hosting . issues coming for hosting 
 users can see https://cyber-phylax.vercel.app/ here, live demo will be provided in video form 
 ---
 
